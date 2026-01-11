@@ -4,7 +4,7 @@
 
 A mercury demo.
 
-![](screenshots/mercury01.gif)
+<img src="screenshots/mercury01.png" width=192 />
 
 ## How to Play
 
@@ -15,6 +15,6 @@ Or you can play [here](https://kitao.github.io/pyxel/wasm/launcher/?run=jay-kumo
 
 ## Remarks
 
-The image is taken from below.
+The image is taken from the following url.
 
 - [Mercury: A complete guide to the closest planet to the sun](https://www.space.com/36-mercury-the-suns-closest-planetary-neighbor.html)
