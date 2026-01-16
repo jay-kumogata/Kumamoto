@@ -4,7 +4,7 @@
 
 A venus demo.
 
-![](screenshots/venus01.png)
+<img src="screenshots/venus01.png" width=192 />
 
 ## How to Play
 
