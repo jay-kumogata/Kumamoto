@@ -1,8 +1,9 @@
 # Kumamoto
 
 Games and demos.<br>
-[HspNote in 2020](hsp/doc/200724_HspNote.md) and
-[PyxelNote in 2024](pyxel/doc/240420_PyxelNote.md) are here.
+[HspNote in 2020](hsp/doc/200724_HspNote.md),
+[PyxelNote in 2024](pyxel/doc/240420_PyxelNote.md) and
+[GamesNote in 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 and 2025](research/GamesNote.md) are here.
 
 ## Demo list
 
