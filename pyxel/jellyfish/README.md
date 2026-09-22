@@ -3,9 +3,9 @@
 ## Introduction
 
 It is a Jellyfish demo.
-I ported Mr. @yuruyuau's [Tsubuyaki Processing](https://x.com/yuruyurau/status/2093710258120331463)to Pyxel/Python. 
+I ported Mr. @yuruyuau's [Tsubuyaki Processing](https://x.com/yuruyurau/status/2093710258120331463) to Pyxel/Python. 
 
-<img src="./screenshots/jellyfish01.gif" width="150"> 
+<img src="./screenshots/jellyfish01.gif" width="400"> 
 
 ## How to Run
 
