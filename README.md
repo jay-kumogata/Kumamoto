@@ -6,7 +6,7 @@ Games and demos.<br>
 [PyxelNote in 2024](pyxel/doc/240420_PyxelNote.md) and
 [GamesNote in 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 and 2025](research/GamesNote.md) are here.
 
-## Demo
+## Demos
 
 |No.|Date|Title|Platform|Content|
 |---|----|----|---------|-------|
