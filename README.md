@@ -18,6 +18,7 @@ Games and demos.<br>
 |1|2026-01-11|[mercury](pyxel/mercury)|Pyxel|<img src="pyxel/mercury/screenshots/mercury01.png" width="160">|
 |2|2026-01-16|[venus](pyxel/venus)|Pyxel|<img src="pyxel/venus/screenshots/venus01.png" width="160">|
 |3|2026-09-22|[jellyfish](pyxel/jellyfish)|Pyxel|<img src="pyxel/jellyfish/screenshots/jellyfish01.gif" width="160">|
+|4|2026-10-01|[rendezvous](pyxel/rendezvous)|Pyxel|<img src="pyxel/rendezvous/screenshots/rendezvous01.gif" width="160">|
 
 ## Miscellaneous
 
