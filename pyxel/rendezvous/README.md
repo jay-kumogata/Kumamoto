@@ -5,7 +5,7 @@
 It is a Rendezvous demo.
 I ported Mr. @yuruyuau's [Tsubuyaki Processing](https://x.com/yuruyurau/status/2091203263811199186)to Pyxel/Python. 
 
-<img src="./screenshots/rendezvous01.gif" width="150"> 
+<img src="./screenshots/rendezvous01.gif" width="400"> 
 
 ## How to Run
 
