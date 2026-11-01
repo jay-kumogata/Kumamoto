@@ -15,9 +15,14 @@ Prospective games and demos.<br>
 
 |No.|Date|Title|Platform|Content|
 |---|----|----|---------|-------|
+|1|2026-01-11|[mercury](pyxel/mercury)|Pyxel|<img src="pyxel/mercury/screenshots/mercury01.png" width="160">|
+|2|2026-01-16|[venus](pyxel/venus)|Pyxel|<img src="pyxel/venus/screenshots/venus01.png" width="160">|
+|3|2026-09-22|[jellyfish](pyxel/jellyfish)|Pyxel|<img src="pyxel/jellyfish/screenshots/jellyfish01.gif" width="160">|
+|4|2026-10-01|[rendezvous](pyxel/rendezvous)|Pyxel|<img src="pyxel/rendezvous/screenshots/rendezvous01.gif" width="160">|
+
+## Miscellaneous
+
+|No.|Date|Title|Platform|Content|
+|---|----|----|---------|-------|
 |1|2020-10-18|[ball](hsp/ball)|HSP|<img src="hsp/ball/screenshots/hsp01.png" width="160">|
 |2|2020-10-24|[mandel](hsp/mandel)|HSP|<img src="hsp/mandel/screenshots/hsp02.png" width="160"> <img src="hsp/mandel/screenshots/hsp03.png" width="160">|
-|3|2026-01-11|[mercury](pyxel/mercury)|Pyxel|<img src="pyxel/mercury/screenshots/mercury01.png" width="160">|
-|4|2026-01-16|[venus](pyxel/venus)|Pyxel|<img src="pyxel/venus/screenshots/venus01.png" width="160">|
-|5|2026-09-22|[jellyfish](pyxel/jellyfish)|Pyxel|<img src="pyxel/jellyfish/screenshots/jellyfish01.gif" width="160">|
-|6|2026-10-01|[rendezvous](pyxel/rendezvous)|Pyxel|<img src="pyxel/rendezvous/screenshots/rendezvous01.gif" width="160">|
