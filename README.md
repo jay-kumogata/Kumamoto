@@ -10,6 +10,7 @@ Prospective games and demos.<br>
 |No.|Date|Title|Platform|Content|
 |---|----|----|---------|-------|
 |1|2021-08-28|[asteroids](haskell/asteroids)|Haskell|<img src="haskell/asteroids/screenshots/asteroids01.png" width="160"> <img src="haskell/asteroids/screenshots/asteroids02.png" width="160">|
+|2|2026-11-20|[shooter](pyxel/shooter)|Pyxel|<img src="pyxel/shooter/screenshots/shooter01.gif" width="160">|
 
 ## Prospective demos
 
